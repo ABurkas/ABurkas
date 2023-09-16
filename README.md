@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=ABurkas&style=flat-square&color=blue" alt=""/>
   <h1>
   Hey There
-  <img src="https://media.giphy.com/media/d47w0J2e87wZ0Fkc4T/giphy.gif" width="70px"/>
+  <img src="https://media.giphy.com/media/l1J9tiMFKV8R31J9m/giphy.gif" width="50px"/>
 </h1>
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
