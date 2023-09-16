@@ -16,9 +16,9 @@
   Hey There
   <img src="https://media.giphy.com/media/d47w0J2e87wZ0Fkc4T/giphy.gif" width="70px"/>
 </h1>
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
@@ -26,3 +26,25 @@
 :man_technologist: About Me :
 <br>
 I am a Student of Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Nicolaus Copernicus University in Torun.
+- :seedling: Exploring Technical Content Writing.
+- :zap: In my free time, I solve programming problems and read tech articles.
+- :computer: Coding in C/C++ and Java Script
+- :runner: I am highly motivated to improve my skills and knovledge in programming
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Albert-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/albert-burkas/)
+
+---
+
+:hammer_and_wrench: Languages and Tools :
+<br>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Java Script" alt="Java Script" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+
+---
+
+:fire: My Stats :
+<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ABurkas&theme=github-dark-blue&background=000000)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABurkas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
