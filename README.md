@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&random=false&width=1100&height=50&lines=Hey+there!;Im+a+computer+science+student+in+NCU;Coding+in+C%2FC%2B%2B%2C+JavaScript+and+Java)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&random=false&width=1100&height=50&lines=Hey+there!;Im+a+computer+science+student+at+NCU;Coding+in+C%2FC%2B%2B%2C+JavaScript+and+Java)](https://git.io/typing-svg)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="170"/>
   <div id="badges">
