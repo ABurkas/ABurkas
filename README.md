@@ -47,7 +47,5 @@ I am a Student of Computer Science <img src="https://media.giphy.com/media/WUlpl
 
 :fire: My Stats :
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=ABurkas&theme=solarized-dark&fire=EBB23C&ring=EBB23C&dates=EBEBEB&background=0F0D36)](https://git.io/streak-stats)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABurkas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
