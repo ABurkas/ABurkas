@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&random=false&width=1100&height=50&lines=Hey+there!;Im+a+computer+science+student+in+NCU;Coding+in+C%2FC%2B%2B%2C+JavaScript+and+Java)](https://git.io/typing-svg)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="170"/>
   <div id="badges">
@@ -12,13 +13,8 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=ABurkas&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Hey There
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
-</div>
+
+
 </div>
 
 ---
@@ -56,3 +52,4 @@ I am a Student of Computer Science <img src="https://media.giphy.com/media/WUlpl
 [![GitHub Streak](https://streak-stats.demolab.com?user=ABurkas&theme=solarized-dark&fire=EBB23C&ring=EBB23C&dates=EBEBEB&background=0F0D36)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABurkas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
