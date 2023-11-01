@@ -13,8 +13,6 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=ABurkas&style=flat-square&color=blue" alt=""/>
-
-
 </div>
 
 ---
