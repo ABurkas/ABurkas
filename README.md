@@ -50,5 +50,5 @@ I am a Student of Computer Science <img src="https://media.giphy.com/media/WUlpl
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABurkas&layout=donut-vertical&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-![ABurkas GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Albert's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABurkas&show_icons=true&theme=radical)
 
