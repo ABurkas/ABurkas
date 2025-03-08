@@ -19,7 +19,7 @@
 
 :man_technologist: About Me :
 <br>
-I am a Student of Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Nicolaus Copernicus University in Torun.
+I am a Student of Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Nicolaus Copernicus University in Torun.
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I solve programming problems and read tech articles.
 - :computer: Coding in C/C++, Java Script and Java
