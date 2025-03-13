@@ -22,7 +22,7 @@
 I am a Student of Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Nicolaus Copernicus University in Torun.
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I solve programming problems and read tech articles.
-- :computer: Coding in C/C++, Java Script and Java
+- :computer: Programming in C/C++/C#, Java Script and Java
 - :runner: I am highly motivated to improve my skills and knovledge in programming
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Albert-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/albert-burkas/)
 
